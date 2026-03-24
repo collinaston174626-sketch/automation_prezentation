@@ -1,6 +1,6 @@
 # 🎨 automation-prezentation
 
-### ✨ Apple Keynote-quality PowerPoint generator for [Claude Code](https://claude.ai/claude-code)
+### ✨ Apple Keynote-quality PowerPoint skill for [Claude Code](https://claude.ai/claude-code)
 
 Transforms any business data — raw notes, markdown, JSON, meeting transcripts — into stunning **animated PPTX presentations** with Apple Light design, professional infographics, and auto-play fade-in animations. One command. Zero design skills required.
 
